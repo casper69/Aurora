@@ -1,0 +1,12 @@
+if i disable the addon then i get no fps issues and this is after the hot fix one of the errors im getting is 
+
+
+Message: Interface\AddOns\AltzUIConfig\api.lua:493: bad argument #1 to 'unpack' (table expected, got nil)
+Time: 01/22/18 19:27:03
+Count: 1
+Stack: Interface\AddOns\AltzUIConfig\api.lua:493: bad argument #1 to 'unpack' (table expected, got nil)
+[C]: ?
+[C]: in function `unpack'
+Interface\AddOns\AltzUIConfig\api.lua:493: in main chunk
+
+Locals: 
